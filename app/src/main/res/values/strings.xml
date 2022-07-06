@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">EgerEats</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Nairobi</item>
+        <item>Nyeri</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Rice</item>
+        <item>Mukimo</item>
+        <item>Githeri</item>
+        <item>Chapati</item>
+        <item>Pilau</item>
+        <item>Biryani</item>
+        <item>Ugali Beef</item>
+        <item>Nyama Choma</item>
+        <item>Chicken Biryani</item>
+        <item>Spaghetti</item>
+        <item>Fish</item>
+        <item>Ugali Sukuma</item>
+        <item>Bugger</item>
+        <item>Pizza</item>
+        <item>Beef Biryani</item>
+        <item>Wali Wa Nazi</item>
+        <item>Chips</item>
+        <item>Matoke</item>
+        <item>Biryani</item>
+        <item>Omena</item>
+        <item>Chicken</item>
+        <item>Ingoho</item>
+        <item>Irio</item>
+        <item>Mutura</item>
+        <item>Samosa</item>
+        <item>Sukuma Wiki</item>
+        <item>Mrenda</item>
+        <item>Large pizza</item>
+        <item>Bhajia</item>
+        <item>Fried eggs</item>
+        <item>Mix Vegetable</item>
+        <item>Ugali cabbage</item>
+        <item>Fried rice</item>
+        <item>Sweet potato</item>
+        <item>Chapo ndengu</item>
+        <item>Rice beans</item>
+        <item>Chips Mayai</item>
+        <item>Mahindi Choma</item>
+        <item></item>
+        <item>Chicken stew</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>

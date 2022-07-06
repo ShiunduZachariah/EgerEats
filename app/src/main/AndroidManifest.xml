@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.EgerEats.app">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application xmlns:tools="http://schemas.android.com/tools"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name="com.EgerEats.app.DeliveryFoodPanel.Delivery_ShippingOrder"
+            android:label="Ship Orders" />
+        <activity
+            android:name="com.EgerEats.app.DeliveryFoodPanel.DeliveryShipOrderView"
+            android:label="Ship Orders" />
+        <activity
+            android:name="com.EgerEats.app.DeliveryFoodPanel.DeliveryPendingOrderView"
+            android:label="Pending Orders" />
+        <activity android:name="com.EgerEats.app.Delivery_FoodPanelBottomNavigation" />
+        <activity
+            android:name="com.EgerEats.app.Delivery_SendOtp"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.Delivery_ForgotPassword"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.Delivery_Login"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.Delivery_LoginPhone"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.Delivery_VerifyPhone"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.Delivery_registeration"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.ChefFoodPanel.ChefPreparedOrderView"
+            android:label="Prepared Orders" />
+        <activity
+            android:name="com.EgerEats.app.ChefFoodPanel.ChefPreparedOrder"
+            android:label="Prepared Orders" />
+        <activity
+            android:name="com.EgerEats.app.ChefFoodPanel.ChefOrdertobePrepareView"
+            android:label="Orders to be Prepared" />
+        <activity
+            android:name="com.EgerEats.app.ChefFoodPanel.ChefOrderTobePrepared"
+            android:label="Orders to be Prepared" />
+        <activity
+            android:name="com.EgerEats.app.CustomerFoodPanel.CustomerPaymentOTP"
+            android:label="Online Payment" />
+        <activity
+            android:name="com.EgerEats.app.CustomerFoodPanel.CustomerOnlinePayment"
+            android:label="Online Payment" />
+        <activity
+            android:name="com.EgerEats.app.CustomerFoodPanel.CustomerPayment"
+            android:label="Payable Orders" />
+        <activity
+            android:name="com.EgerEats.app.CustomerFoodPanel.PayableOrders"
+            android:label="Payable Orders" />
+        <activity
+            android:name="com.EgerEats.app.CustomerFoodPanel.PendingOrders"
+            android:label="Pending Orders" />
+        <activity
+            android:name="com.EgerEats.app.ChefFoodPanel.Chef_order_dishes"
+            android:label="Orders" />
+        <activity
+            android:name="com.EgerEats.app.CustomerFoodPanel.CustomerPhoneSendOTP"
+            android:label="Mobile Number" />
+        <activity
+            android:name="com.EgerEats.app.CustomerFoodPanel.CustomerPhonenumber"
+            android:label="Mobile Number" />
+        <activity
+            android:name="com.EgerEats.app.CustomerFoodPanel.CustomerForgotpassword"
+            android:label="Password" />
+        <activity
+            android:name="com.EgerEats.app.CustomerFoodPanel.CustomerPassword"
+            android:label="Password" />
+        <activity android:name="com.EgerEats.app.CustomerFoodPanel.OrderDish" />
+        <activity
+            android:name="com.EgerEats.app.ChefFoodPanel.Update_Delete_Dish"
+            android:label="Home" />
+        <activity
+            android:name="com.EgerEats.app.ChefFoodPanel.Chef_PostDish"
+            android:label="Post Dish" />
+        <activity
+            android:name="com.EgerEats.app.ChefFoodPanel_BottomNavigation"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity
+            android:name="com.EgerEats.app.CustomerFoodPanel_BottomNavigation"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity" />
+        <activity
+            android:name="com.EgerEats.app.MainMenu"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.Chefsendotp"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.Chefloginphone"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.sendotp"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.LoginPhone"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.ChefVerifyPhone"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.VerifyPhone"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.ChefForgotPassword"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.ChefLogin"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.ChooseOne"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.ChefRegisteration"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.ForgotPassword"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.Login"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.Registeration"
+            android:theme="@style/AppThemeNoActionbar" />
+        <activity
+            android:name="com.EgerEats.app.MainActivity"
+            android:theme="@style/AppThemeNoActionbar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.EgerEats.app.SendNotification.MyFirebaseMessagingService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.EgerEats.app.SendNotification.MyFirebaseIdService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

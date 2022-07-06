@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/activity_chef_order_dishes.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/activity_chef_prepared_order.xml" value="0.25" />
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/activity_customer_online_payment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/activity_customer_password.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/activity_customer_payment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/activity_delivery__food_panel_bottom_navigation.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/activity_main_menu.xml" value="0.25" />
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/activity_payable_orders.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/chef_menu_update_delete.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/chef_order_dishes.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/shiundu/Desktop/Final Year/EgerEats/app/src/main/res/layout/fragment_chef_home.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,4 @@
+<resources>
+    <!-- https://console.cloud.google.com/apis/credentials?highlightKey=632078d6-416a-4cd3-bfd0-03d0dcb29727&project=neiborsdish-finalproject -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBhol1JEJ5BHnvYHEqlRkQ1voWPdJw01DM</string>
+</resources>

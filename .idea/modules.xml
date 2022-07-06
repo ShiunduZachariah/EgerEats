@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EgerEats.iml" filepath="$PROJECT_DIR$/.idea/modules/EgerEats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EgerEats.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EgerEats.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EgerEats.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EgerEats.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EgerEats.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EgerEats.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EgerEats.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EgerEats.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
