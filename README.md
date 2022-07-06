@@ -1,5 +1,6 @@
 # EgerEats
 Android Food Ordering and Delivery Application.
+
 To Clone Repository
 Open the Project in your android studio
 IMPORTANT:- Change the PackageName
